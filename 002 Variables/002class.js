@@ -1,0 +1,14 @@
+"use strict";
+let favoriteColor = "Blue";
+console.log(favoriteColor);
+favoriteColor = "Green";
+console.log(favoriteColor);
+let userName = "Abu Huraira";
+let age = 21;
+let isStudent = false;
+let randomValue = "This is random value";
+console.log(userName);
+console.log(age);
+console.log(isStudent);
+console.log(isStudent);
+console.log(randomValue);
